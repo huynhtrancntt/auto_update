@@ -3,7 +3,7 @@
     "assets_url": "https://github.com/huynhtrancntt/DownloadVID",
     "upload_url": "https://raw.githubusercontent.com/huynhtrancntt/DownloadVID/main/update_v1.3.0.zip",
     "html_url": "https://raw.githubusercontent.com/huynhtrancntt/DownloadVID/main/update_v1.3.0.zip",
-    "download_url": "https://raw.githubusercontent.com/huynhtrancntt/auto_update/main/update_v1.3.0.zip",
+    "download_url": "http://localhost:8000/download/update_v1.3.0.zip",
     "id": 123456,
     "tag_name": "v1.3.0",
     "target_commitish": "main",
