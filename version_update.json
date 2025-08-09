@@ -1,0 +1,6 @@
+{
+    "latest": "1.3.0",
+    "notes": "Sửa lỗi đăng nhập; tăng tốc render UI.",
+    "url": "https://your.cdn.com/MyApp-v1.3.0.zip",
+    "sha256": "PUT_HASH_64_HEX_HERE"
+}
